@@ -1,16 +1,19 @@
-# ogrenci_secici
+# Ögrenci Seçici
 
-A new Flutter project.
+Eğitim teknolojilerinin merkezinde yer alan Pardus ETAP (Etkileşimli Tahta Projesi), sınıflarda verimliliği artırmak için güçlü araçlar sunar. Bu yazıda, öğretmenlerin ders içi etkileşimi artırmak, sözlüye kalkacak öğrenciyi adil bir şekilde seçmek veya sunum sırasını belirlemek için kullanabileceği "Dijital Öğrenci Seçici" uygulamasını Flutter ile nasıl geliştireceğinizi adım adım anlatacağız.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Bu uygulama şunları yapabilecek:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Excel'den Liste Yükleme: e-Okul listelerini saniyeler içinde içeri aktarma.
+
+Görsel Seçim: Heyecan verici bir çark arayüzü ile seçim yapma.
+
+Ses Efektleri: Dönme ve alkış sesleri ile sınıf atmosferini canlandırma.
+
+Sonuç Ekranı: Seçilen öğrenciyi büyük bir pencerede ilan etme.
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6a4a2e88-70b1-4f42-9c52-afbe5b159746" />
+
