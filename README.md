@@ -1,6 +1,6 @@
 # Ögrenci Seçici
 
-Eğitim teknolojilerinin merkezinde yer alan Pardus ETAP (Etkileşimli Tahta Projesi), sınıflarda verimliliği artırmak için güçlü araçlar sunar. Bu yazıda, öğretmenlerin ders içi etkileşimi artırmak, sözlüye kalkacak öğrenciyi adil bir şekilde seçmek veya sunum sırasını belirlemek için kullanabileceği "Dijital Öğrenci Seçici" uygulamasını Flutter ile nasıl geliştireceğinizi adım adım anlatacağız.
+Eğitim teknolojilerinin merkezinde yer alan Pardus ETAP (Etkileşimli Tahta Projesi), sınıflarda verimliliği artırmak için güçlü araçlar sunar. Bu yazıda, öğretmenlerin ders içi etkileşimi artırmak, sözlüye kalkacak öğrenciyi adil bir şekilde seçmek veya sunum sırasını belirlemek için kullanabileceği "Dijital Öğrenci Seçici" uygulaması Flutter ile geliştirilmiştir.
 
 ## Bu uygulama şunları yapabilecek:
 
